@@ -1,2 +1,2 @@
-# Treino de PostegreSQL 
+# Treino de PostgreSQL 
 Author Ervandil Cunha
