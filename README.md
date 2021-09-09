@@ -1,3 +1,3 @@
 # Scripts-sql
 
-Scripts sql Ervandil Cunha
+Scripts SQL Ervandil Cunha
